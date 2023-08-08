@@ -13,4 +13,4 @@
 • 🧔🏾‍♂️ as Linkedin - 
   https://www.linkedin.com/in/aaron-j-smith-11ajs/
   
-• 😃 A Let's Connect!
+• 😃 Hey Let's Connect!
