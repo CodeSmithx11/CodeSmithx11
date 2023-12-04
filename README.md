@@ -2,7 +2,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =======================================================================================================================================
 
 🌱 I'm currently learning Full-Stack Software Engineering for #AppAcademy
--------------------------------------------------------------------------
 
 I have been learning to code for a little over 3 years now, I first started with HTML and CSS
 
@@ -21,6 +20,7 @@ I have been learning to code for a little over 3 years now, I first started with
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/CodeSmithx11" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/aaron-j-smith-483b301b2" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
@@ -28,8 +28,6 @@ I have been learning to code for a little over 3 years now, I first started with
 <a href="http://www.github.com/CodeSmithx11"><img src="https://github-readme-stats.vercel.app/api?username=CodeSmithx11&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&show_icons=true" alt="CodeSmithx11's GitHub stats" /></a>
 
 <a href="http://www.github.com/CodeSmithx11"><img src="https://github-readme-streak-stats.herokuapp.com/?user=CodeSmithx11&stroke=ffffff&background=000000&ring=a855f7&fire=a855f7&currStreakNum=ffffff&currStreakLabel=a855f7&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/CodeSmithx11"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=CodeSmithx11&bg_color=000000&color=ffffff&line=facc15&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/CodeSmithx11" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CodeSmithx11&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=facc15&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
