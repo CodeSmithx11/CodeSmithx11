@@ -1,13 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Aaron J. Smith.
 =======================================================================================================================================
 
-🌱 I'm currently learning Full-Stack Software Engineering for #AppAcademy
+🌱 I'm currently learning Full-Stack Software Engineering @City Univesity of Seattle #CityU
 
-I have been learning to code for a little over 3 years now, I first started with HTML and CSS
+I have been learning to code for a little over 4 years now, I first started with HTML and CSS
 
 * 🌍  I'm based in New Jersey
 * ✉️  You can contact me at [aaron.smith\_11@yahoo.com](mailto:aaron.smith_11@yahoo.com)
-* 🧠  I'm learning React, Django, Vue.js
+* 🧠  I'm learning React, Django, Vue.js, MongoDB, Ruby,
 * 🤝  I'm open to collaborating on on new projects, 👀 I'm interested in learning new tools, frameworks, and technologies and creating cool and exciting applications with them.
 * ⚡  learned about put computers together and taking them apart when I was 6
 
