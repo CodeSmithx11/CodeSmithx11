@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 🌱 I'm currently learning Full-Stack Software Engineering @City Univesity of Seattle #CityU
 
-I have been learning to code for a little over 4 years now, I first started with HTML and CSS
+I have been learning to code again for a little over 6 years now, I first started with HTML and CSS
 
 * 🌍  I'm based in New Jersey
 * ✉️  You can contact me at [aaron.smith\_11@yahoo.com](mailto:aaron.smith_11@yahoo.com)
